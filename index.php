@@ -8,4 +8,7 @@
   w[eplfa
   w[pl
   
+  new = ewoijfoiwejofiwji() {
+    
+  }
 ?>
